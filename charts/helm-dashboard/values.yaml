@@ -106,7 +106,7 @@ ingress:
   className: "nginx"
   annotations: {}
   hosts:
-    - host: moncif-elkassimi.com
+    - host: helm-dashboard.moncif-elkassimi.com.
       paths:
         - path: /
           pathType: ImplementationSpecific
