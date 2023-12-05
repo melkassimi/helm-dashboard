@@ -103,7 +103,7 @@ service:
 
 ingress:
   enabled: true
-  className: ""
+  className: "nginx"
   annotations: {}
   hosts:
     - host: moncif-elkassimi.com
